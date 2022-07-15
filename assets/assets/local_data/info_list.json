@@ -1,0 +1,22 @@
+ [
+  {
+    "imagePath": "assets/images/social_link/github.png",
+    "imageName": "GitHub: atomyongya",
+    "socialSiteLink": "https://github.com/atomyongya"
+  },
+  {
+    "imagePath": "assets/images/social_link/medium.png",
+    "imageName": "Medium: Atom Yongya",
+    "socialSiteLink": "https://atomyongya.medium.com/"
+  },
+  {
+    "imagePath": "assets/images/social_link/linkedin.png",
+    "imageName": "Linkedin: atom yongya",
+    "socialSiteLink": "https://www.linkedin.com/in/atom-yongya-311a0120b/"
+  },
+  {
+    "imagePath": "assets/images/social_link/gmail.png",
+    "imageName": "Gmail: yongyaatom@gmail.com",
+    "socialSiteLink": "https://mail.google.com/mail/u/0/#inbox"
+  }
+]
